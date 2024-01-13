@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilakhtar92&label=Profile%20views&color=0e75b6&style=flat" alt="nabilakhtar92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilakhtar92" alt="nabilakhtar92" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analytics|Aure|AWS|Power BI|Tableau**
 
 - 💬 Ask me about **Data Analysis|Python|Web Development|UI/UX**
 
 - 📫 How to reach me **nabilakhtar92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19a4SsVE5kgORNxxwtvWpNPOylF8U_Xl-/view?usp=sharing](https://drive.google.com/file/d/19a4SsVE5kgORNxxwtvWpNPOylF8U_Xl-/view?usp=sharing)
+- 📄 Know about my experiences->MY RESUME [https://drive.google.com/file/d/19a4SsVE5kgORNxxwtvWpNPOylF8U_Xl-/view?usp=sharing](https://drive.google.com/file/d/19a4SsVE5kgORNxxwtvWpNPOylF8U_Xl-/view?usp=sharing)
 
 - ⚡ Fun fact **"This student data engineer turns raw data into a masterpiece, blending technical expertise with a touch of artistry."**
 
@@ -28,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilakhtar92&show_icons=true&locale=en&layout=compact" alt="nabilakhtar92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilakhtar92&show_icons=true&locale=en" alt="nabilakhtar92" /></p>
+
