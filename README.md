@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilakhtar92&label=Profile%20views&color=0e75b6&style=flat" alt="nabilakhtar92" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics|Aure|AWS|Power BI|Tableau**
+- 🌱 I’m currently learning **Data Analytics|Azure|AWS|Power BI|Tableau**
 
 - 💬 Ask me about **Data Analysis|Python|Web Development|UI/UX**
 
